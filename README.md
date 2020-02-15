@@ -1,7 +1,7 @@
 # udacity-microservices
- Udacity Microservices Project
+ Udacity Microservices Project from Devin Yang
 
-[![EVYang1992](https://app.circleci.com/gh/EVYang1992/udacitymicroservice.svg?style=svg)](https://app.circleci.com/github/EVYang1992/udacitymicroservice/pipelines)
+[![EVYang1992](https://circleci.com/gh/EVYang1992/udacitymicroservice.svg?style=svg)](https://app.circleci.com/github/EVYang1992/udacitymicroservice/pipelines)
 
 ## Project Overview
 
